@@ -1,4 +1,4 @@
-# Hamropasa An Ecommerce Website With Django + React
+# Hamropasal An Ecommerce Website With Django + React
 
 # Features
 
